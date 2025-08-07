@@ -1,0 +1,20 @@
+# virtual environment
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+
+
+
+# gradio cache
+.gradio/
+
+# Chroma database files
+chroma_shards/
+shard_data/
+
