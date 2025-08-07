@@ -33,11 +33,9 @@ The **AI Food Recommendation Chatbot** is a sophisticated multi-agent system aim
    - Presents recommendations or further clarifying questions to the user, looping until satisfaction.
 
 ## **Folder Description**
-- **Python Files:** This folder contains all the files related to running the program. Each part of the code is made in a modular way to make future changes easy.
 - **User_clustering_file:** This folder contains all the files related to the user clustering module (K++ means trained algorithm).
-- **Application:** This folder contains all the files related to the front-end made using gradio and its connection to the orchestrator.
 - **Data Cleaning and Feature Engineering:** This folder contains all the files related to the preprocessing of the datasets and the feature engineering.
-- **Embedding and Shards Creation:** This folder contains all the files related to embedding of the data and making of the shards. The link to the shards made is given at the end.
+- **Embedding Restaurant Data - Shards Creation:** This folder contains all the files related to embedding of the data and making of the shards. The link to the shards made is given at the end.
 - **Demo_final_compressed.mp4**: This is the demo video which contains the full run of the application showing 2 scenarios of various inputs.
 - **Case_presentation.pdf**: This is the presentation showcasing the importance, usability and findings of this project.
 - **Report.pdf**: This is the detailed report explaining the various technical aspects of this projects.
