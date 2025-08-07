@@ -5,7 +5,7 @@
 The **AI Food Recommendation Chatbot** is a sophisticated multi-agent system aimed at providing **personalized, context-aware food recommendations** through natural conversation. Built upon a Retrieval-Augmented Generation (RAG) paradigm, the system leverages advanced user modeling, conversational memory, semantic retrieval, and explainable reranking to optimize food suggestions for individual users. Its modular agents, robust data engineering, and user clustering ensure relevance, scalability, and adaptability for varying user behaviors and food contexts.
 
 ## **Workflow Overview**
-<img width="3840" height="2160" alt="Intent Classification" src="https://github.com/user-attachments/assets/9415d086-b89e-461c-8293-a528999797c6" />
+<img width="3840" height="1000" alt="Intent Classification" src="https://github.com/user-attachments/assets/9415d086-b89e-461c-8293-a528999797c6" />
 
 ### **Workflow Steps**
 
